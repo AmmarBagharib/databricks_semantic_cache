@@ -53,6 +53,10 @@ Notebook: `7-3_index_creation.ipynb`
 
 This index forms the semantic cache.
 
+Also refer to: 
+- https://docs.databricks.com/aws/en/vector-search/create-vector-search
+- https://docs.databricks.com/aws/en/vector-search/vector-search
+
 ---
 
 ## Step 4: Semantic Classification (Cache First)
