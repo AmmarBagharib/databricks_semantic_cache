@@ -32,6 +32,7 @@ This project explores a hybrid approach:
 ---
 
 ## Core Idea: Semantic Cache for Conversation Classification
+<img width="1677" height="802" alt="Screenshot 2025-12-24 at 3 50 11 AM" src="https://github.com/user-attachments/assets/3175a9da-7f90-4d43-808e-a20133acdc6b" />
 
 Conversation intents repeat.
 
