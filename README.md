@@ -1,6 +1,6 @@
 # Databricks Semantic Cache for GenAI Chatbot Analytics
 
-https://github.com/user-attachments/assets/ef4b4b14-36b1-4a96-b56a-a15590983778
+https://github.com/user-attachments/assets/9c8d68d5-fe36-4746-b4bd-4652bb652ae8
 
 This repository demonstrates how Databricks can be used as an end-to-end analytics platform
 for GenAI chatbot applications, with a focus on reducing LLM classification costs through
